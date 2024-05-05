@@ -1,2 +1,2 @@
 # tic-tac-toe
-this is game on console
+this a game on console
